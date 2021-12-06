@@ -7,14 +7,14 @@ null,
 {"id":5,"expanded":false,"name":"정우님","order":14,"parentId":0,"scrollX":973.1999999999999,"scrollY":553.1999999999999},
 null,
 {"id":7,"expanded":true,"name":"마을 회관1층","order":7,"parentId":2,"scrollX":732.5454545454546,"scrollY":441.8181818181818},
-{"id":8,"expanded":true,"name":"마을 외부","order":2,"parentId":1,"scrollX":731.4545454545455,"scrollY":441.8181818181818},
+{"id":8,"expanded":true,"name":"마을 외부","order":2,"parentId":1,"scrollX":1120.909090909091,"scrollY":769.0909090909091},
 {"id":9,"expanded":true,"name":"이장방","order":10,"parentId":14,"scrollX":643.0909090909091,"scrollY":461.4545454545455},
 {"id":10,"expanded":true,"name":"집내부2","order":13,"parentId":15,"scrollX":0,"scrollY":0},
 {"id":11,"expanded":false,"name":"레스토랑","order":5,"parentId":1,"scrollX":643.0909090909091,"scrollY":509.4545454545455},
 null,
 null,
-{"id":14,"expanded":true,"name":"튜토리얼 장소","order":9,"parentId":3,"scrollX":634.3636363636364,"scrollY":441.8181818181818},
+{"id":14,"expanded":true,"name":"튜토리얼 장소","order":9,"parentId":3,"scrollX":634.3636363636364,"scrollY":450.54545454545456},
 {"id":15,"expanded":true,"name":"우리집","order":12,"parentId":4,"scrollX":811,"scrollY":453},
 {"id":16,"expanded":true,"name":"찻집","order":4,"parentId":8,"scrollX":634.3636363636364,"scrollY":441.8181818181818},
-{"id":17,"expanded":false,"name":"여관","order":3,"parentId":8,"scrollX":731.4545454545455,"scrollY":696}
+{"id":17,"expanded":false,"name":"여관","order":3,"parentId":8,"scrollX":731.4545454545455,"scrollY":463.6363636363637}
 ]
