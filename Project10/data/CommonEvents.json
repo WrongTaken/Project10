@@ -2,6 +2,6 @@
 null,
 {"id":1,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
-{"id":3,"list":[{"code":123,"indent":0,"parameters":["A",1]},{"code":123,"indent":0,"parameters":["B",1]},{"code":123,"indent":0,"parameters":["C",1]},{"code":123,"indent":0,"parameters":["D",1]},{"code":0,"indent":0,"parameters":[]}],"name":"불량배 그룹 사라지기","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
 ]
