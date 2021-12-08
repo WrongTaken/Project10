@@ -19,5 +19,5 @@ null,
 {"id":17,"expanded":false,"name":"여관","order":3,"parentId":18,"scrollX":728.6666666666666,"scrollY":874.6666666666666},
 {"id":18,"expanded":true,"name":"마을 외부","order":2,"parentId":0,"scrollX":888.6666666666666,"scrollY":864},
 {"id":19,"expanded":true,"name":"황폐한 마을 회관1층","order":11,"parentId":7,"scrollX":728.6666666666666,"scrollY":864},
-{"id":20,"expanded":true,"name":"황혼의 마을 외부","order":12,"parentId":7,"scrollX":960.6666666666666,"scrollY":864}
+{"id":20,"expanded":true,"name":"황혼의 마을 외부","order":12,"parentId":7,"scrollX":944,"scrollY":800}
 ]
