@@ -1854,22 +1854,22 @@ Window_MenuCommand.prototype.addMainCommands = function() {
     if (this.needsCommand("item")) {
         this.addCommand(TextManager.item, "item", enabled);
     }
-    if (this.needsCommand("skill")) {
-        this.addCommand(TextManager.skill, "skill", enabled);
-    }
-    if (this.needsCommand("equip")) {
-        this.addCommand(TextManager.equip, "equip", enabled);
-    }
-    if (this.needsCommand("status")) {
-        this.addCommand(TextManager.status, "status", enabled);
-    }
+//    if (this.needsCommand("skill")) {
+//        this.addCommand(TextManager.skill, "skill", enabled);
+//    }
+//    if (this.needsCommand("equip")) {
+//        this.addCommand(TextManager.equip, "equip", enabled);
+//    }
+//    if (this.needsCommand("status")) {
+//        this.addCommand(TextManager.status, "status", enabled);
+//    }
 };
 
 Window_MenuCommand.prototype.addFormationCommand = function() {
-    if (this.needsCommand("formation")) {
-        const enabled = this.isFormationEnabled();
-        this.addCommand(TextManager.formation, "formation", enabled);
-    }
+//    if (this.needsCommand("formation")) {
+//        const enabled = this.isFormationEnabled();
+//       this.addCommand(TextManager.formation, "formation", enabled);
+//    }
 };
 
 Window_MenuCommand.prototype.addOriginalCommands = function() {
