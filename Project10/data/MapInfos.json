@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":false,"name":"레스토랑","order":5,"parentId":18,"scrollX":1390.2857142857142,"scrollY":790.2857142857142},
-{"id":2,"expanded":true,"name":"이장방","order":7,"parentId":0,"scrollX":663.3333333333334,"scrollY":864},
+{"id":2,"expanded":true,"name":"이장방","order":7,"parentId":0,"scrollX":1390.2857142857142,"scrollY":790.2857142857142},
 {"id":3,"expanded":true,"name":"이장방2","order":8,"parentId":2,"scrollX":663.3333333333334,"scrollY":864},
 {"id":4,"expanded":true,"name":"이장방3","order":9,"parentId":3,"scrollX":663.3333333333334,"scrollY":864},
 {"id":5,"expanded":true,"name":"이장방4","order":10,"parentId":4,"scrollX":663.3333333333334,"scrollY":864},
